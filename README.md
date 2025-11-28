@@ -1,6 +1,6 @@
 A Python-based web scraping tool that extracts structured financial ranking data from a target website using BeautifulSoup, Requests, and Pandas.
 This script automates the collection of metadata such as page headings, company ranking tables, revenue figures, and more — exporting the results into clean, analysis-ready formats.
-
+Website link is :- https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
 Features
 Scrapes financial ranking pages from a public website
 
